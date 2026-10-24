@@ -36,6 +36,7 @@
 (^|\.)watchdocumentaries\.com$
 (^|\.)tyronesgames\.com$
 (^|\.)allwebgames\.com$
+(^|\.)brainroot-shooter\.ru$
 
 # German gaming portals
 (^|\.)spielaffe\.de$
@@ -123,6 +124,7 @@
 (^|\.)sitesgoogle\.com$
 (^|\.)web\.app$
 (^|\.)firebaseapp\.com$
+(^|\.)yandex\.net$
 
 # Gaming and streaming
 (^|\.)twitch\.tv$
